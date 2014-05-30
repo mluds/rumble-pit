@@ -1,6 +1,5 @@
 Rumble Pit
 ==========
-
 A GridWars clone written in ActionScript
 
 Building & Running
